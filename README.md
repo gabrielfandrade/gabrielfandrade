@@ -21,7 +21,7 @@
 ##
 
 <div id="contato"> 
-  <a href="https://www.linkedin.com/in/gabrielfandrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielfandrade/" target="_blank"><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
 </div>
   
 ##
