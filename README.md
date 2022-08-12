@@ -5,5 +5,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfandrade)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block><br>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
